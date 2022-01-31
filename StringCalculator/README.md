@@ -1,6 +1,13 @@
 ##String Calculator Kata
 
-Here are the tests that should be written:
+#Setup
+This project uses Gradle 7.2 and is set at java 17. Import or open the project in IntelliJ. If you do not have a JDK, you may be given the option to download one. Go ahead and download Java 17.  You may also have to update to Gradle 7.2. 
+For more information on installing gradle visit:
+https://gradle.org/install/
+
+#Instructions
+
+Here are the tests that (should be written:
 
 1:  An empty string returns zero 
 
